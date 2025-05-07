@@ -129,7 +129,7 @@ const BannerCarousel = () => {
 
 const styles = StyleSheet.create({
   banner: {
-    width: width - 50,
+    width: width-25,
     height: 180,
     borderRadius: 16,
     marginBottom: 16,
